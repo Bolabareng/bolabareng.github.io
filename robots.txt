@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bolabareng.github.io/sitemap.xml
